@@ -1,6 +1,6 @@
-AdsShield v 0.1 (Minified Version)
+AdShield v 0.1 (Minified Version)
 
-AdsShield is a click spam/bomb protection.
+AdShield is a click spam/bomb protection.
 
 How it works:
 The adsShield work by assumption.
