@@ -8,11 +8,11 @@ AdsShield assume that the link below the cursor causing a web page move to anoth
 If the link was arround adsShield area upon page move, it will then recognized as a click.
 When a click reach a certain number, adsShield will prevent user to view the protected area (in this case ads).
 
-With the same assumption, when a user roughly clicking adsShield area in intention for spamming clicks,
+With the same assumption, when a user roughly clicking AdShield area in intention for spamming clicks,
 it will then immediately hide the area after certain clicks as defined on configuration.
 
 Version:
-Curent version of adsShield : V 0.1
+Curent version of AdShield : V 0.1
 This is an early develpment, use it at your own risk.
 
 Know bugs:
